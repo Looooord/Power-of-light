@@ -2,7 +2,6 @@
 
 ![header](https://trello-attachments.s3.amazonaws.com/5b76860b13251b64e4d000e0/5b8a3620afefa754596f2af7/2758210724c03a925ef5d6cf803712f4/header.png "header")
 
-# Power of Light
 ## Instructions
 ---
  Hello Chief, you have to complete 3 waves to save the base.
